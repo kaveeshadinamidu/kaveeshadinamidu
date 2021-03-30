@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaveeshadinamidu
 - 👀 I’m interested in Web Development and Mobile Development
-- 🌱 I’m currently learning at Department of Computer science and Engineering at University Of Moratuwa
+- 🌱 I’m currently studying at Department of Computer science and Engineering at University Of Moratuwa
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
