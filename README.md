@@ -1,4 +1,4 @@
-### Hi There, I am Kaveesha Dinamidu
+### Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I am Kaveesha Dinamidu 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dinamidu)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kaveeshadinamidu/)
 ## I'm a Developer, Freelancer and a Teacher!
@@ -18,8 +18,6 @@
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
-
-
 
 ### Skills
 [<img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
@@ -48,11 +46,13 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kaveeshadinamidu&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=4AB097&bg_color=ffffff" alt="Kaveesha's GitHub Stats" />
 </a>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaveeshadinamidu&" alt="" /></p>
+
 <br />
 <br />
 
 ---
-
 [github]: https://www.github.com/kaveeshadinamidu
 [twitter]: https://twitter.com/dinamidu
 [linkedin]: https://www.linkedin.com/in/kaveeshadinamidu
