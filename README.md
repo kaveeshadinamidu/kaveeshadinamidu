@@ -1,5 +1,6 @@
 ### Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I am Kaveesha Dinamidu 
 ![GitHub followers](https://img.shields.io/github/followers/kaveeshadinamidu?label=Followers&logo=GitHub)
+![GitHub User's stars](https://img.shields.io/github/stars/kaveeshadinamidu?logo=github)
 ## I'm a Developer, Freelancer and a Teacher!
 - :school_satchel: I’m currently studying at the Department of Computer science and Engineering at the University of Moratuwa
 - :satellite: I’m interested in new Technologies and Frameworks
