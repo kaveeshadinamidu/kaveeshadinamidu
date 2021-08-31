@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0472B6)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0472B6)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Server-VScode-informational?style=flat&logo=xampp&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Server-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=0472B6)
 ![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=0472B6)
 <br/>
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=CLion&logoColor=white&color=0472B6)
