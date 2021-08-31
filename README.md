@@ -1,6 +1,5 @@
 ### Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I am Kaveesha Dinamidu 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dinamidu)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kaveeshadinamidu/)
+![GitHub followers](https://img.shields.io/github/followers/kaveeshadinamidu?label=Followers&logo=GitHub)
 ## I'm a Developer, Freelancer and a Teacher!
 - :school_satchel: I’m currently studying at the Department of Computer science and Engineering at the University of Moratuwa
 - :satellite: I’m interested in new Technologies and Frameworks
@@ -19,20 +18,36 @@
 
 <br />
 
-### Skills
-[<img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />][flutter]
-[<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react-native/react-native.png" />][react-native]
+### Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Server-VScode-informational?style=flat&logo=xampp&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=0472B6)
+<br/>
+![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=CLion&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Editor-Android-informational?style=flat&logo=AndroidStudio&logoColor=white&color=0472B6)
 
-<br />
+### Languages
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=5A5A5A)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=5A5A5A)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=5A5A5A)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=5A5A5A)
+![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=5A5A5A)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=5A5A5A)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=5A5A5A)
+![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=5A5A5A)
+
+### Frameworks
+![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Web-Spring-informational?style=flat&logo=springboot&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Mobile-React-informational?style=flat&logo=react&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Web-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=0472B6)
+<br/>
+![](https://img.shields.io/badge/Mobile-Android-informational?style=flat&logo=android&logoColor=white&color=0472B6)
+
 <br />
 
 ---
