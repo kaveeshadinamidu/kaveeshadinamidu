@@ -73,17 +73,7 @@
 [linkedin]: https://www.linkedin.com/in/kaveeshadinamidu
 [instagram]: https://www.instagram.com/kaveeshadinamidu
 [facebook]: https://www.facebook.com/kaveeshadinamidu
-[html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[react]: https://reactjs.org/
-[nodejs]:https://nodejs.org/en/
-[mysql]: https://www.mysql.com/
-[mongodb]: https://www.mongodb.com/
-[git]: https://www.git.com/
-[github]: https://www/github.com
-[flutter]: https://www.flutter.dev
-[react-native]: https://reactnative.dev/
+
 <!---
 kaveeshadinamidu/kaveeshadinamidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
