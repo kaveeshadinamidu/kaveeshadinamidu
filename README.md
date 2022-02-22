@@ -1,6 +1,7 @@
 ### Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I am Kaveesha Dinamidu 
 ![GitHub followers](https://img.shields.io/github/followers/kaveeshadinamidu?label=Followers&logo=GitHub)
 ![GitHub User's stars](https://img.shields.io/github/stars/kaveeshadinamidu?logo=github)
+![](https://komarev.com/ghpvc/?username=kaveeshadinamidu&color=blue)
 ## I'm a Developer, Freelancer and a Teacher!
 - :school_satchel: I’m currently studying at the Department of Computer science and Engineering at the University of Moratuwa
 - :satellite: I’m interested in new Technologies and Frameworks
@@ -24,6 +25,7 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0472B6)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=0472B6)
 ![](https://img.shields.io/badge/Server-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=0472B6)
+![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=Xcode&logoColor=white&color=0472B6)
 ![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=0472B6)
 <br/>
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=CLion&logoColor=white&color=0472B6)
@@ -36,9 +38,7 @@
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=5A5A5A)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=5A5A5A)
 ![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=5A5A5A)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=5A5A5A)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=5A5A5A)
-![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=5A5A5A)
+![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=white&color=5A5A5A)
 
 ### Frameworks
 ![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=0472B6)
