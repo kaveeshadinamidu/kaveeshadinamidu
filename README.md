@@ -54,14 +54,6 @@
 ---
 ### GitHub Stats
 
-<a href="https://github.com/kaveeshadinamidu">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshadinamidu&layout=compact&title_color=000000&text_color=000000&icon_color=4AB197&bg_color=ffffff" />
-</a>
-
-<a href="https://github.com/kaveeshadinamidu">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kaveeshadinamidu&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=4AB097&bg_color=ffffff" alt="Kaveesha's GitHub Stats" />
-</a>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaveeshadinamidu&" alt="" /></p>
 
