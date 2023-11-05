@@ -18,36 +18,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
 
-### Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Server-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=Xcode&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=0472B6)
-<br/>
-![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=CLion&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Editor-Android-informational?style=flat&logo=AndroidStudio&logoColor=white&color=0472B6)
-
-### Languages
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=5A5A5A)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=5A5A5A)
-![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=5A5A5A)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=5A5A5A)
-![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=5A5A5A)
-![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=white&color=5A5A5A)
-
-### Frameworks
-![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Web-Spring-informational?style=flat&logo=springboot&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Mobile-React-informational?style=flat&logo=react&logoColor=white&color=0472B6)
-![](https://img.shields.io/badge/Web-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=0472B6)
-<br/>
-![](https://img.shields.io/badge/Mobile-Android-informational?style=flat&logo=android&logoColor=white&color=0472B6)
 
 <br />
 
