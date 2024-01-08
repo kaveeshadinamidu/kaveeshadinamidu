@@ -7,7 +7,7 @@
 - :satellite: I’m interested in new Technologies and Frameworks
 - 🌱 I’m currently learning everything that I can
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 2023 Goal : Contribute more to Open Source projects
+- 📫 2024 Goal : Contribute more to Open Source projects
 - :joy: I would like to play Guitar :sunglasses:
 
 
