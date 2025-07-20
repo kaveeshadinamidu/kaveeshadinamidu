@@ -3,7 +3,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/kaveeshadinamidu?logo=github)
 ![](https://komarev.com/ghpvc/?username=kaveeshadinamidu&color=blue)
 ## I'm an Engineer and a Teacher!
-- :school_satchel: I’m currently studying at the Department of Computer science and Engineering at the University of Moratuwa
+- :school_satchel: I am a graduate of the Department of Computer Science and Engineering at the University of Moratuwa.
 - :satellite: I’m interested in new Technologies and Frameworks
 - 🌱 I’m currently learning everything that I can
 - 💞️ I’m looking to collaborate on open source projects
